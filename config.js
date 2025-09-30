@@ -1,4 +1,4 @@
 module.exports = {
-  database: process.env.MONGODB_URI || 'mongodb://localhost:27017/bat-dong-san',
+  database: process.env.MONGODB_URI || 'mongodb://localhost:27017/real-estate',
   secret: 'yourJWTSecret'
 };
