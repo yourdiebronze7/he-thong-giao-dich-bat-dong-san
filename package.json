@@ -1,6 +1,6 @@
 {
   "name": "he-thong-giao-dich-bat-dong-san",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Hệ thống giao dịch bất động sản trên nền tảng blockchain.",
   "main": "index.js",
   "scripts": {
